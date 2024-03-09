@@ -1,6 +1,6 @@
 ## Education
 Northwestern University, BS in MechE (Robotics)    
-Certificate in Human Computer Interaction 
+Certificate in Human Computer Interaction  
 UIUC, BS in MechE, transferred  
 
 ## Mechatronics & Control System
