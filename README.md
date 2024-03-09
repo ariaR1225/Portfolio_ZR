@@ -3,9 +3,11 @@ Northwestern University, BS in MechE (Robotics)
 Certificate in Human Computer Interaction  
 UIUC, BS in MechE, transferred  
 
-## Mechatronics & Control System
+## Automation & System Integration
 
 ### Camera-based Multi-barcodes Scanner
+
+## Mechatronics & Control
 
 ### Haptics Rendering on H3 Exoskeleton
 ![Project 1](/path/to/image1.jpg)
